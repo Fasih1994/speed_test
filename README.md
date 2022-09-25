@@ -2,7 +2,7 @@
 A simple speed test script to check internet speed over a scheduled time.
 
 ## Chart 
-I created a simple [Line chart](https://flourish-user-preview.com/11273439/GvdJfaEVJ71P_OWV_ktIsFrtp5GeqJh1Q1hg39xC_ksVaZtrdo1iDz9BxYjDN42V "@embed") with the help of [Flourish](https://app.flourish.studio/)
+I created a simple [Line chart](https://public.flourish.studio/visualisation/11273439/ "@embed") with the help of [Flourish](https://app.flourish.studio/)
 
 You can use your own embed link in **chart.html**
 
